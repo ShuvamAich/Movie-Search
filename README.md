@@ -1,7 +1,7 @@
 # Movie-Search
 Movie Data Searching App using React JS
 
---> This is my first project on React JS
+Click here to view the page: https://shuvamaich.github.io/Movie-Search/
 
 # Getting Started with Create React App
 
